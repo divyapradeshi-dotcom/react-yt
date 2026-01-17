@@ -1,0 +1,12 @@
+button{
+  margin:10px;
+  padding : 10px 20px;
+}
+h1{
+  background-color: rgb(119,119,119);
+  width:fit-content;
+ font-size:100px;
+ padding: 10px 80px;
+ border-radius: 5px;
+ margin:10px
+}
