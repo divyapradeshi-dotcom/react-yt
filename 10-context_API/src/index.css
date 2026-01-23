@@ -1,0 +1,11 @@
+.nav{
+  display:flex;
+  background-color: blueviolet;
+  justify-content: space-between;
+  align-items: center;
+  padding : 10px 40px;
+}
+.nav2{
+  display: flex;
+  gap: 30px;
+}
